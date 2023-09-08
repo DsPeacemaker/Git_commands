@@ -1,5 +1,7 @@
 ## В этом файле я опишу все функции терминала для работы с **Git**,
 которые уже знаю и изучил в достаточной мере.
+
+![Логотип Git](https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png "Логотип Git")
 ---
 
 ### Команды терминала
@@ -168,3 +170,5 @@ d666812 Добавлено описание в readme.md
 Данный репозиторий будет дополняться по мере изучения возможностей **Git**
 
 *Peace :* *
+
+![Логотип](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/130px-Markdown-mark.svg.png 'Логотип MarkDown')
