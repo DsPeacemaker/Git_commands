@@ -1,6 +1,6 @@
 ## В этом файле я опишу все функции терминала для работы с **Git**, которые уже знаю и изучил в достаточной мере.
 
-![Логотип Git](https://www.20i.com/blog/wp-content/uploads/2022/08/git-blog-header.png "Логотип Git")
+![Шпора Git](https://sun9-34.userapi.com/impg/X75nkp9soEqL47gP0X8Ffyp87S8Xe_miARRRbA/WL7p-maeb4I.jpg?size=2481x1754&quality=96&sign=a9cc8c68f8d12977402a393831cabe98&type=album "Шпаргалка Git")
 ---
 
 ### Команды терминала
